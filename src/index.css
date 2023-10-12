@@ -41,6 +41,7 @@
 		/* Isaiah added css for delete button*/
 		--delete-color: hsl(0, 95%, 69%);
 		--delete-hover-color: hsl(8, 90%, 76%);
+		--base-bg: var(--color-white);
 	}
 }
 

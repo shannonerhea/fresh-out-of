@@ -1,5 +1,7 @@
 # fresh-out-of
+
 A Smart Shopping List that learns your buying habits over time
+
 ## Overview
 
 This README file explains The Collab Lab’s smart shopping list project and provides instructions for developing it locally.

@@ -42,8 +42,7 @@ export function Layout({ listToken }) {
 				<header className="Layout-header">
 					<h1>Fresh Out Of...</h1>
 					<h2>
-						Welcome to your Smart shopping list that learns your buying habits
-						over time!
+						Your Smart Shopping List that learns your buying habits over time!
 					</h2>
 					{listTokenDisplay}
 				</header>
