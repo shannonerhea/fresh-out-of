@@ -1,6 +1,6 @@
 # fresh-out-of
 
-A Smart Shopping List that learns your buying habits over time!
+A Smart Shopping List that learns your buying habits over time
 
 ## Overview
 
