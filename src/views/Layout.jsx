@@ -43,7 +43,7 @@ export function Layout({ listToken }) {
 					<h1>Fresh Out Of...</h1>
 					<h2>
 						Welcome to your Smart Shopping List that learns your buying habits
-						over time!
+						over time!!
 					</h2>
 					{listTokenDisplay}
 				</header>
