@@ -4,7 +4,7 @@ A Smart Shopping List that learns your buying habits over time
 
 ## Overview
 
-Me and a team of 3 other Developers built out this application over an 8 week period of time. We worked in an Agile enviroment utlizing sprints, pair programming, code reviews, code presentations and documentation.
+Me and a team of 3 other Developers built out this application over an 8 week period of time. We worked in an Agile enviroment utlizing sprints, pair programming, code reviews, code presentations, pull requests and documentation.
 
 ## What is this project?
 
