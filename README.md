@@ -1,4 +1,4 @@
-# [![Fresh Out Of... - Welcome to your smart shopping list!](resources/images/README-preview.png 'Fresh Out Of...')](https://fresh-out-of.netlify.app/)
+# [![Fresh Out Of... - Welcome to your smart shopping list!](_resources/images/README-preview.png 'Fresh Out Of...')](https://fresh-out-of.netlify.app/)
 
 [Fresh Out Of...](https://fresh-out-of.netlify.app/) is a smart shopping list that learns your buying habits and helps you remember what you need to buy on your next trip to the store.
 
@@ -10,7 +10,7 @@ As a user, you will enter items (e.g., “Toilet paper” or “Paper towels”)
 
 ## Demo
 
-[![youtube preview image - TCL-65 final weekly sync](./resources/images/screenshot2023-10-26at9.51.39am.png 'youtube preview')](https://www.youtube.com/watch?v=YOW1H6Y2Mjw)
+[![youtube preview image - TCL-65 final weekly sync](/_resources/images/youtube-preview.png 'youtube preview')](https://www.youtube.com/watch?v=YOW1H6Y2Mjw)
 
 ## Acknowledgements
 
