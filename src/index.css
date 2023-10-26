@@ -175,6 +175,19 @@ body {
 	background-attachment: fixed; /* Optional: Keep the background fixed */
 	background-position: center center;
 }
+body {
+	background-image: url('/_resources/images/lemons-blk.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+}
+
+@media screen and (prefers-color-scheme: light) {
+	body {
+		background-image: url('/_resources/images/lemons-wht.png');
+	}
+}
 
 form {
 	display: flex;
